@@ -1,0 +1,13 @@
+{
+  "name": "ejemplo-menu-harmburguesa",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "cheeseburger-menu": "0.0.7",
+    "react": "15.5.3",
+    "react-dom": "15.5.3",
+    "react-hamburger-menu": "0.0.4"
+  }
+}

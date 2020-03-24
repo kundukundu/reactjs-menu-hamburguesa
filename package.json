@@ -1,0 +1,22 @@
+{
+  "name": "ejemplo-menu-harmburguesa",
+  "version": "0.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "cheeseburger-menu": "0.0.7",
+    "react": "15.5.3",
+    "react-dom": "15.5.3",
+    "react-hamburger-menu": "0.0.4"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
